@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="https://lo1.in/mega/SPAIN/LA1HD.png" group-title="SPAIN",LA 1
-http://t365.in:80/5345193936/4866297333/165922
+http://t365.in:80/5345193936/4866297333/189416
 #EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="https://lo1.in/mega/SPAIN/LA2.png" group-title="SPAIN",LA 2
-http://t365.in:80/5345193936/4866297333/165923
+http://t365.in:80/5345193936/4866297333/189417
 #EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="https://lo1.in/mega/SPAIN/ANTENA3HD.png" group-title="SPAIN",ANTENA 3
-http://t365.in:80/5345193936/4866297333/165927
+http://t365.in:80/5345193936/4866297333/189420
 #EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="https://lo1.in/mega/SPAIN/CUATROHD.png" group-title="SPAIN",CUATRO
-http://t365.in:80/5345193936/4866297333/165928
+http://t365.in:80/5345193936/4866297333/189421
 #EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="https://lo1.in/mega/SPAIN/TELECINCOHD.png" group-title="SPAIN",TELECINCO
-http://t365.in:80/5345193936/4866297333/165929
+http://t365.in:80/5345193936/4866297333/189422
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="https://lo1.in/mega/SPAIN/LASEXTAHD.png" group-title="SPAIN",LA SEXTA
-http://t365.in:80/5345193936/4866297333/165930
+http://t365.in:80/5345193936/4866297333/189423
 #EXTINF:-1 tvg-id="telemadrid.es" tvg-name="TELEMADRID" tvg-logo="https://lo1.in/mega/SPAIN/TELEMADRID.png" group-title="SPAIN",TELEMADRID
 http://t365.in:80/5345193936/4866297333/5609
 #EXTINF:-1 tvg-id="canalsur.es" tvg-name="CANAL SUR ANDALUCÍA " tvg-logo="https://lo1.in/mega/SPAIN/CANALSUR.png" group-title="SPAIN",CANAL SUR ANDALUCÍA 
-http://t365.in:80/5345193936/4866297333/189428
+http://t365.in:80/5345193936/4866297333/165935
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="# VAMOS" tvg-logo="https://lo1.in/mega/SPAIN/VAMOSHD.png" group-title="SPAIN",# VAMOS
 http://t365.in:80/5345193936/4866297333/165967
 #EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD" tvg-logo="https://lo1.in/mega/SPAIN/BEMAD.png" group-title="SPAIN",BE MAD
@@ -218,21 +218,21 @@ http://t365.in:80/5345193936/4866297333/400220771
 #EXTINF:-1 tvg-id="" tvg-name="ALQUILER 7" tvg-logo="https://lo1.in/mega/SPAIN/alquiler.png" group-title="SPAIN",ALQUILER 7
 http://t365.in:80/5345193936/4866297333/400220770
 #EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1" tvg-logo="https://lo1.in/mega/SPAIN/DAZN1.png" group-title="SPAIN",DAZN 1
-http://t365.in:80/5345193936/4866297333/400218246
+http://t365.in:80/5345193936/4866297333/360196
 #EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2" tvg-logo="https://lo1.in/mega/SPAIN/DAZN2.png" group-title="SPAIN",DAZN 2
-http://t365.in:80/5345193936/4866297333/400218228
+http://t365.in:80/5345193936/4866297333/360197
 #EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3" tvg-logo="https://lo1.in/mega/SPAIN/DAZN3.png" group-title="SPAIN",DAZN 3
-http://t365.in:80/5345193936/4866297333/400218227
+http://t365.in:80/5345193936/4866297333/379044
 #EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4" tvg-logo="https://lo1.in/mega/SPAIN/DAZN4.png" group-title="SPAIN",DAZN 4
-http://t365.in:80/5345193936/4866297333/400218226
+http://t365.in:80/5345193936/4866297333/379045
 #EXTINF:-1 tvg-id="daznf14k.es" tvg-name="DAZN F1" tvg-logo="https://lo1.in/mega/SPAIN/DAZN1.png" group-title="SPAIN",DAZN F1
-http://t365.in:80/5345193936/4866297333/400218225
+http://t365.in:80/5345193936/4866297333/189462
 #EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAM WORKS" tvg-logo="https://lo1.in/mega/SPAIN/DREAMWORKS.png" group-title="SPAIN",DREAM WORKS
 http://t365.in:80/5345193936/4866297333/400218271
 #EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1" tvg-logo="https://lo1.in/mega/SPAIN/EUROSPORT1.png" group-title="SPAIN",EUROSPORT 1
-http://t365.in:80/5345193936/4866297333/400218235
+http://t365.in:80/5345193936/4866297333/189470
 #EXTINF:-1 tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="https://lo1.in/mega/SPAIN/EUROSPORT2.png" group-title="SPAIN",EUROSPORT 2
-http://t365.in:80/5345193936/4866297333/400218234
+http://t365.in:80/5345193936/4866297333/189471
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 3" tvg-logo="https://lo1.in/mega/SPAIN/eurosport3.png" group-title="SPAIN",EUROSPORT 3
 http://t365.in:80/5345193936/4866297333/400218272
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 4" tvg-logo="https://lo1.in/mega/SPAIN/eurosport4.png" group-title="SPAIN",EUROSPORT 4
@@ -260,18 +260,18 @@ http://t365.in:80/5345193936/4866297333/400218249
 #EXTINF:-1 tvg-id="movistargolf.es" tvg-name="M. GOLF" tvg-logo="https://lo1.in/mega/SPAIN/Movistar_Golf.png" group-title="SPAIN",M. GOLF
 http://t365.in:80/5345193936/4866297333/400218236
 #EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M. LaLiga 1" tvg-logo="https://lo1.in/mega/SPAIN/Movistar_LaLiga_1_.png" group-title="SPAIN",M. LaLiga 1
-http://t365.in:80/5345193936/4866297333/400218243
+http://t365.in:80/5345193936/4866297333/9460
 #EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="M. LaLiga 2" tvg-logo="https://lo1.in/mega/SPAIN/Movistar_LaLiga_2.png" group-title="SPAIN",M. LaLiga 2
-http://t365.in:80/5345193936/4866297333/400218242
+http://t365.in:80/5345193936/4866297333/9461
 #EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="M. LaLiga 3" tvg-logo="https://lo1.in/mega/SPAIN/Movistar_LaLiga_3.png" group-title="SPAIN",M. LaLiga 3
-http://t365.in:80/5345193936/4866297333/400218241
+http://t365.in:80/5345193936/4866297333/9462
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M. LaLiga" tvg-logo="https://lo1.in/mega/SPAIN/M-LALIGA.png" group-title="SPAIN",M. LaLiga
-http://t365.in:80/5345193936/4866297333/400218244
+http://t365.in:80/5345193936/4866297333/189459
 #EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="M.FORMULA1" tvg-logo="https://lo1.in/mega/SPAIN/MFORMULA1.png" group-title="SPAIN",M.FORMULA1
 http://t365.in:80/5345193936/4866297333/400218270
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="M.L CAMPEONES" tvg-logo="https://lo1.in/mega/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M.L CAMPEONES
-http://t365.in:80/5345193936/4866297333/400218282
+http://t365.in:80/5345193936/4866297333/189457
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 1" tvg-logo="https://lo1.in/mega/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M.LCAMPEON 1
-http://t365.in:80/5345193936/4866297333/400230645
+http://t365.in:80/5345193936/4866297333/375699
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 2" tvg-logo="https://lo1.in/mega/SPAIN/Movistar_Liga_de_Campeones.png" group-title="SPAIN",M.LCAMPEON 2
-http://t365.in:80/5345193936/4866297333/400230644
+http://t365.in:80/5345193936/4866297333/375700
