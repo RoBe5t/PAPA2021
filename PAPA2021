@@ -155,8 +155,14 @@ http://me6nv.top:8000/5n5/52df65h/7
 http://me6nv.top:8000/5n5/52df65h/83
 #EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="CLAN " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="SPAIN",CLAN 
 http://me6nv.top:8000/5n5/52df65h/86
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="SPAIN",DAZN F1 
-http://me6nv.top:8000/5n5/52df65h/43
+#EXTINF:-1 tvg-id="M+ELLAS #V" tvg-name="M.ELLAS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="SPAIN",M.ELLAS
+http://me6nv.top:8000/5n5/52df65h/1747
+#EXTINF:-1 tvg-id="#VAMOS" tvg-name="#VAMOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="SPAIN",#VAMOS
+http://me6nv.top:8000/5n5/52df65h/187	
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="SPAIN",DAZN LA LIGA
+http://me6nv.top:8000/5n5/52df65h/1745
+#EXTINF:-1 tvg-id="DAZN LaLiga2" tvg-name="DAZN LA LIGA 2HD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="SPAIN",DAZN LA LIGA 2HD 
+http://me6nv.top:8000/5n5/52df65h/1746
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN  1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="SPAIN",DAZN  1
 http://me6nv.top:8000/5n5/52df65h/771
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="SPAIN",DAZN 2
@@ -165,11 +171,9 @@ http://me6nv.top:8000/5n5/52df65h/774
 http://me6nv.top:8000/5n5/52df65h/1184
 #EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4 " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="SPAIN",DAZN 4 
 http://me6nv.top:8000/5n5/52df65h/1185
-#EXTINF:-1 tvg-id="#VAMOS" tvg-name="#VAMOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="SPAIN",#VAMOS
-http://me6nv.top:8000/5n5/52df65h/187
-#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="LIGA TV" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1639.png" group-title="SPAIN",LIGA TV
-http://me6nv.top:8000/5n5/52df65h/1444
-#EXTINF:-1 tvg-id="M. LaLiga" tvg-name="M.LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="SPAIN",M.LA LIGA
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="SPAIN",DAZN F1 
+http://me6nv.top:8000/5n5/52df65h/43
+#EXTINF:-1 tvg-id="LA 1" tvg-name="M.LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="SPAIN",M.LA LIGA
 http://me6nv.top:8000/5n5/52df65h/804
 #EXTINF:-1 tvg-id="M. LaLiga 1" tvg-name="M.LA LIGA 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="SPAIN",M.LA LIGA 1
 http://me6nv.top:8000/5n5/52df65h/44
@@ -185,7 +189,13 @@ http://me6nv.top:8000/5n5/52df65h/47
 http://me6nv.top:8000/5n5/52df65h/48
 #EXTINF:-1 tvg-id="M. LaLiga 7" tvg-name="M.LALIGA 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG7.png" group-title="SPAIN",M.LALIGA 7
 http://me6nv.top:8000/5n5/52df65h/49
-#EXTINF:-1 tvg-id="M.LCAMPEONES#" tvg-name="MOVISTAR CAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="SPAIN",MOVISTAR CAMPEONES
+#EXTINF:-1 tvg-id="Liga SmartBank" tvg-name="LigaSmartBank" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="SPAIN",LigaSmartBank
+http://me6nv.top:8000/5n5/52df65h/1750
+#EXTINF:-1 tvg-id="DAZN LaLiga2" tvg-name="LigaSmartBank 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="SPAIN",LigaSmartBank 2
+http://me6nv.top:8000/5n5/52df65h/1749
+#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="SPAIN",Liga SmartBank 3
+http://me6nv.top:8000/5n5/52df65h/1751
+#EXTINF:-1 tvg-id="LA 1" tvg-name="MOVISTAR CAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="SPAIN",MOVISTAR CAMPEONES
 http://me6nv.top:8000/5n5/52df65h/708
 #EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="SPAIN",M.LCAMPEON 1
 http://me6nv.top:8000/5n5/52df65h/128
@@ -211,13 +221,13 @@ http://me6nv.top:8000/5n5/52df65h/1669
 http://me6nv.top:8000/5n5/52df65h/31
 #EXTINF:-1 tvg-id="M+DEPORTES1HD" tvg-name="M.DEPORTES 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="SPAIN",M.DEPORTES 1
 http://me6nv.top:8000/5n5/52df65h/41
-#EXTINF:-1 tvg-id="M. DEPORTES2" tvg-name="M. DEPORTES2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="SPAIN",M. DEPORTES2
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="M. DEPORTES2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="SPAIN",M. DEPORTES2
 http://me6nv.top:8000/5n5/52df65h/27
-#EXTINF:-1 tvg-id="M. DEPORTES3" tvg-name="M. DEPORTES 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="SPAIN",M. DEPORTES 3
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="M. DEPORTES 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="SPAIN",M. DEPORTES 3
 http://me6nv.top:8000/5n5/52df65h/28
 #EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="M. DEPORTES 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="SPAIN",M. DEPORTES 4
 http://me6nv.top:8000/5n5/52df65h/29
-#EXTINF:-1 tvg-id="M. DEPORTES5" tvg-name="M. DEPORTES 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" group-title="SPAIN",M. DEPORTES 5
+#EXTINF:-1 tvg-id="MULTIDEPORTE" tvg-name="M. DEPORTES 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" group-title="SPAIN",M. DEPORTES 5
 http://me6nv.top:8000/5n5/52df65h/30
 #EXTINF:-1 tvg-id="M. GOLF" tvg-name="M. GOLF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="SPAIN",M. GOLF
 http://me6nv.top:8000/5n5/52df65h/118
